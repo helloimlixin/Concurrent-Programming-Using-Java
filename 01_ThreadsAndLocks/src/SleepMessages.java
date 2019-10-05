@@ -1,5 +1,7 @@
+package src;
+
 /**
- * SleepMessages
+ * src.SleepMessages
  * 
  * <code>Thread.sleep</code> causes the current thread to suspend execution for a
  * specific period. This is an efficient means of making processor time available to

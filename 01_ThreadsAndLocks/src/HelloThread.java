@@ -1,5 +1,7 @@
+package src;
+
 /**
- * HelloThread
+ * src.HelloThread
  * 
  * The <code>Thread</code> class itself implements
  * <code>Runnable</code> interface, though its <code>run</code>

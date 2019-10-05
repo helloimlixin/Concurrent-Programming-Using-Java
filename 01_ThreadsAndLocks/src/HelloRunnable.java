@@ -1,5 +1,7 @@
+package src;
+
 /**
- * HelloRunnable
+ * src.HelloRunnable
  * The <code>Runnable</code> interface defines a single method,
  * <code>run</code>, to contain the code executed in the thread.
  * The <code>Runnable</code> object is passed to the
